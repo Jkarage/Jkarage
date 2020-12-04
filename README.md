@@ -12,6 +12,9 @@
 <a href="https://www.hackerrank.com/jkarage">
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<a href="https://www.twitter.com/janjosy">
+  <img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <br></br>
 
 An engineering student and a software developer from Tanzania 🏠 .
@@ -19,8 +22,8 @@ An engineering student and a software developer from Tanzania 🏠 .
 Passionate about learning and working with latest technologies, keen interest towards DevOps technologies, AI and Software development.
 
  - 🔛 I’m currently working on DevOps, Machine learning and full stack software engineering.
- - 💬 Ask me about: DevOps, ML Algorithms, Coding, OOP, DSA
- - ✉️ Ping me through: Any platform you are comfortable with, links are above 🔝
+ - 💬 Ask me about: DevOps, ML Algorithms, Coding, OOP, DSA.
+ - ✉️ Ping me through: Any channel you prefer the links are above.
  - 😄 Pronouns: <code><img src="https://github.com/rudrajit1729/rudrajit1729/blob/master/static/pronouns/hehim.svg" alt="He/Him" style="vertical-align:top margin:6px 4px" height="21"></code>
  - ⚡ Fun Fact: I like it when things get more complicated. 
 
