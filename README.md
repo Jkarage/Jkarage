@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/joseph-karage-3b5966186/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/jkarage">
+<a href="https://github.com/Jkarage">
   <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:josephbkarage@gmail.com">
