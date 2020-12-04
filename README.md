@@ -14,7 +14,7 @@
 </a>
 <br></br>
 
-An engineering student and a software developer from Tanzania 🏠 .
+A telecommunications engineering student and a software developer from Tanzania 🏠 .
 
 Passionate about learning and working with latest technologies, keen interest towards DevOps technologies, AI and Software development.
 
