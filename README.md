@@ -24,7 +24,7 @@ Passionate about learning and working with latest technologies, keen interest to
  - 🔛 I’m currently working on DevOps, Machine learning and full stack software engineering.
  - 💬 Ask me about: DevOps, ML Algorithms, Coding, OOP, DSA.
  - ✉️ Ping me through: Any channel you prefer the links are above.
- - 😄 Pronouns: <code><img src="https://github.com/rudrajit1729/rudrajit1729/blob/master/static/pronouns/hehim.svg" alt="He/Him" style="vertical-align:top margin:6px 4px" height="21"></code>
+ - 😄 Pronouns: He/Him
  - ⚡ Fun Fact: I like it when things get more tense. 
 
 -  🌻 Github Stats
